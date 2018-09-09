@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== WP Rootkit ===
 Contributors: mrjamiebowman
 Donate link: https://www.wprootkit.com/donate
 Tags: comments, spam
